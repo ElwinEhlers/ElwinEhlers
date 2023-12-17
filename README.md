@@ -2,7 +2,7 @@
 Thank you for been here.<P>
 
 
-- 🌊 In the docker-Portainer-yml Folder you find the.yml files for your Homelab, <br>with a howto setup Docker and Portainer on a Debian mashine.
+- 🌊 In the docker-Portainer-yml Folder you find the.yml files for a Homelab, <br>with a howto setup Docker and Portainer on a Debian mashine.
 - 🌱 I’m currently learning ssh and pfsense
 
 <!--
