@@ -1,40 +1,40 @@
 ## Elwin Ehlers — Linux Sysadmin · Windows Admin (MCSA 2012)
 
-System administrator based in Bremerhaven with hands-on experience in self-hosted infrastructure,
-containerization, network security, and cloud networking.
-I build and document things I actually run — home lab, cloud, and everything in between.
+Systemadministrator aus Bremerhaven mit praktischer Erfahrung in Self-Hosted Infrastruktur,
+Containerisierung, Netzwerksicherheit und Cloud-Netzwerken.
+Ich baue und dokumentiere Dinge, die ich selbst betreibe — Home Lab, Cloud und alles dazwischen.
 
 ---
 
-### What I work with
+### Womit ich arbeite
 
-**On-premise & virtualization**
+**On-Premise & Virtualisierung**
 Proxmox VE, Hyper-V, Linux (Ubuntu/Debian), Windows Server
 
-**Containers**
+**Container**
 Docker, Docker Compose, Portainer
 
-**Networking & Security**
+**Netzwerk & Sicherheit**
 Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Wazuh (SIEM)
 
 **Cloud**
-Microsoft Azure — VNet design, peering, VPN Gateway, Cloud Shell
+Microsoft Azure — VNet-Design, Peering, VPN Gateway, Cloud Shell
 
-**Applications**
+**Anwendungen**
 Paperless-ngx, Matrix/Synapse, RustDesk, Organizr, Zammad, Remedy
 
-**Currently learning:** OPNsense
+**Lerne gerade:** OPNsense
 
 ---
 
-### Projects
+### Projekte
 
-| Repo | Description |
+| Repo | Beschreibung |
 |------|-------------|
-| [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml) | Docker Compose files for self-hosted home lab services with Portainer setup guide |
-| [dokubase](https://github.com/ElwinEhlers/dokubase) | Self-hosted knowledge base for local HTML and PDF files — Docker Compose, Flask API, nginx, no external dependencies |
-| [pi](https://github.com/ElwinEhlers/pi) | Pi Coding Agent setup on Windows 11 with local Ollama + browser-based launcher GUI |
-| [paperless-ngx-docker-setup](https://github.com/ElwinEhlers/paperless-ngx-docker-setup) | Paperless-ngx Docker deployment for document management |
+| [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml) | Docker-Compose-Dateien für Self-Hosted Home-Lab-Services mit Setup-Anleitung für Portainer |
+| [dokubase](https://github.com/ElwinEhlers/dokubase) | Self-Hosted Wissensdatenbank für lokale HTML- und PDF-Dateien — Docker Compose, Flask-API, nginx, keine externen Abhängigkeiten |
+| [pi](https://github.com/ElwinEhlers/pi) | Einrichtung des Pi Coding Agent unter Windows 11 mit lokalem Ollama und browserbasierter Launcher-GUI |
+| [paperless-ngx-docker-setup](https://github.com/ElwinEhlers/paperless-ngx-docker-setup) | Paperless-ngx-Deployment mit Docker für die Dokumentenverwaltung |
 
 ---
 
