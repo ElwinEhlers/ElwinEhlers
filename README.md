@@ -12,10 +12,10 @@ Ich baue und dokumentiere Dinge, die ich selbst betreibe — On-Premise und Clou
 Proxmox VE, Hyper-V, Linux (Ubuntu/Debian), Windows Server
 
 **Container**
-Docker, Docker Compose, Portainer
+Docker, Docker Compose, Portainer, Dockhand
 
 **Netzwerk & Sicherheit**
-Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Wazuh
+Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Wazuh, Checkmk Raw
 
 **Cloud**
 Microsoft Azure — VNet-Design, Peering, VPN Gateway, Cloud Shell
