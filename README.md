@@ -33,7 +33,6 @@ Paperless-ngx, Matrix/Synapse, RustDesk, Organizr, Zammad, Remedy, Tailscale/Hea
 |------|-------------|
 | [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml) | Docker-Compose-Dateien für Self-Hosted Services mit Setup-Anleitung für Portainer |
 | [Tideup Tracker Nordsee](https://tideup.de) | Live-Pegelstände und Gezeiten für zehn Nordsee-Stationen — Daten aus der PEGELONLINE-API der WSV, statisches HTML/JS, nginx in Docker |
-| [paperless-ngx-docker-setup](https://github.com/ElwinEhlers/paperless-ngx-docker-setup) | Paperless-ngx-Deployment mit Docker für die Dokumentenverwaltung |
 
 ---
 
