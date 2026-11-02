@@ -2,7 +2,7 @@
 
 Systemadministrator aus Bremerhaven mit praktischer Erfahrung in Self-Hosted Infrastruktur,
 Containerisierung, Netzwerksicherheit und Cloud-Netzwerken.
-Ich baue und dokumentiere Dinge, die ich selbst betreibe — On-Premise, Cloud und alles dazwischen.
+Ich baue und dokumentiere Dinge, die ich selbst betreibe — On-Premise und Cloud.
 
 ---
 
