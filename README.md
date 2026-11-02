@@ -2,7 +2,7 @@
 
 Systemadministrator aus Bremerhaven mit praktischer Erfahrung in Self-Hosted Infrastruktur,
 Containerisierung, Netzwerksicherheit und Cloud-Netzwerken.
-Ich baue und dokumentiere Dinge, die ich selbst betreibe — Home Lab, Cloud und alles dazwischen.
+Ich baue und dokumentiere Dinge, die ich selbst betreibe — On-Premise, Cloud und alles dazwischen.
 
 ---
 
@@ -15,13 +15,13 @@ Proxmox VE, Hyper-V, Linux (Ubuntu/Debian), Windows Server
 Docker, Docker Compose, Portainer
 
 **Netzwerk & Sicherheit**
-Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Wazuh (SIEM)
+Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Wazuh
 
 **Cloud**
 Microsoft Azure — VNet-Design, Peering, VPN Gateway, Cloud Shell
 
 **Anwendungen**
-Paperless-ngx, Matrix/Synapse, RustDesk, Organizr, Zammad, Remedy
+Paperless-ngx, Matrix/Synapse, RustDesk, Organizr, Zammad, Remedy, Tailscale/Headplane, PatchMon, llama.cpp
 
 **Lerne gerade:** OPNsense
 
@@ -31,9 +31,8 @@ Paperless-ngx, Matrix/Synapse, RustDesk, Organizr, Zammad, Remedy
 
 | Repo | Beschreibung |
 |------|-------------|
-| [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml) | Docker-Compose-Dateien für Self-Hosted Home-Lab-Services mit Setup-Anleitung für Portainer |
-| [dokubase](https://github.com/ElwinEhlers/dokubase) | Self-Hosted Wissensdatenbank für lokale HTML- und PDF-Dateien — Docker Compose, Flask-API, nginx, keine externen Abhängigkeiten |
-| [pi](https://github.com/ElwinEhlers/pi) | Einrichtung des Pi Coding Agent unter Windows 11 mit lokalem Ollama und browserbasierter Launcher-GUI |
+| [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml) | Docker-Compose-Dateien für Self-Hosted Services mit Setup-Anleitung für Portainer |
+| [Tideup Tracker Nordsee](https://tideup.de) | Live-Pegelstände und Gezeiten für zehn Nordsee-Stationen — Daten aus der PEGELONLINE-API der WSV, statisches HTML/JS, nginx in Docker |
 | [paperless-ngx-docker-setup](https://github.com/ElwinEhlers/paperless-ngx-docker-setup) | Paperless-ngx-Deployment mit Docker für die Dokumentenverwaltung |
 
 ---
